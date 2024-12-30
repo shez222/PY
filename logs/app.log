@@ -1,0 +1,225 @@
+2024-12-17 04:36:00,730 [INFO] Created panorama directory at panoramas
+2024-12-17 04:36:00,731 [INFO] Starting Flask server.
+2024-12-17 04:36:00,781 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.118:8080
+2024-12-17 04:36:00,782 [INFO] [33mPress CTRL+C to quit[0m
+2024-12-17 04:36:00,785 [INFO]  * Restarting with stat
+2024-12-17 04:36:01,183 [INFO] Starting Flask server.
+2024-12-17 04:36:01,199 [WARNING]  * Debugger is active!
+2024-12-17 04:36:01,204 [INFO]  * Debugger PIN: 946-614-528
+2024-12-17 04:39:01,175 [INFO] 192.168.0.101 - - [17/Dec/2024 04:39:01] "GET / HTTP/1.1" 200 -
+2024-12-17 04:39:01,449 [INFO] 192.168.0.101 - - [17/Dec/2024 04:39:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-17 04:39:08,669 [INFO] 192.168.0.101 - - [17/Dec/2024 04:39:08] "GET / HTTP/1.1" 200 -
+2024-12-17 04:39:19,842 [INFO] 192.168.0.101 - - [17/Dec/2024 04:39:19] "[31m[1mGET /stitch HTTP/1.1[0m" 405 -
+2024-12-17 04:59:05,193 [INFO] Received a request to /stitch endpoint.
+2024-12-17 04:59:05,195 [WARNING] No 'images' part in the request.
+2024-12-17 04:59:05,195 [INFO] 192.168.0.118 - - [17/Dec/2024 04:59:05] "[31m[1mPOST /stitch HTTP/1.1[0m" 400 -
+2024-12-26 23:23:33,838 [INFO] Starting Flask server.
+2024-12-26 23:23:33,893 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.104:8080
+2024-12-26 23:23:33,893 [INFO] [33mPress CTRL+C to quit[0m
+2024-12-26 23:23:33,895 [INFO]  * Restarting with stat
+2024-12-26 23:23:34,328 [INFO] Starting Flask server.
+2024-12-26 23:23:34,346 [WARNING]  * Debugger is active!
+2024-12-26 23:23:34,350 [INFO]  * Debugger PIN: 140-384-597
+2024-12-26 23:23:41,192 [INFO] 192.168.0.104 - - [26/Dec/2024 23:23:41] "GET / HTTP/1.1" 200 -
+2024-12-26 23:23:41,322 [INFO] 192.168.0.104 - - [26/Dec/2024 23:23:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-26 23:33:50,901 [INFO] 192.168.0.104 - - [26/Dec/2024 23:33:50] "GET / HTTP/1.1" 200 -
+2024-12-26 23:34:34,824 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-26 23:34:34,894 [INFO]  * Restarting with stat
+2024-12-26 23:34:35,319 [INFO] Starting Flask server.
+2024-12-26 23:34:35,340 [WARNING]  * Debugger is active!
+2024-12-26 23:34:35,343 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:08:30,201 [INFO] Starting Flask server.
+2024-12-31 00:08:30,253 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.100:8080
+2024-12-31 00:08:30,253 [INFO] [33mPress CTRL+C to quit[0m
+2024-12-31 00:08:30,255 [INFO]  * Restarting with stat
+2024-12-31 00:08:30,677 [INFO] Starting Flask server.
+2024-12-31 00:08:30,693 [WARNING]  * Debugger is active!
+2024-12-31 00:08:30,697 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:08:56,161 [INFO] 192.168.0.100 - - [31/Dec/2024 00:08:56] "GET / HTTP/1.1" 200 -
+2024-12-31 00:08:56,188 [INFO] 192.168.0.100 - - [31/Dec/2024 00:08:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-31 00:09:06,227 [INFO] 192.168.0.100 - - [31/Dec/2024 00:09:06] "[31m[1mGET /stitch HTTP/1.1[0m" 405 -
+2024-12-31 00:13:03,313 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:13:03,373 [INFO]  * Restarting with stat
+2024-12-31 00:13:03,816 [INFO] Starting Flask server.
+2024-12-31 00:13:03,834 [WARNING]  * Debugger is active!
+2024-12-31 00:13:03,838 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:13:32,461 [INFO] 192.168.0.100 - - [31/Dec/2024 00:13:32] "GET / HTTP/1.1" 200 -
+2024-12-31 00:13:32,558 [INFO] 192.168.0.100 - - [31/Dec/2024 00:13:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-31 00:13:43,743 [INFO] 192.168.0.100 - - [31/Dec/2024 00:13:43] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:13:43,823 [INFO] 192.168.0.100 - - [31/Dec/2024 00:13:43] "GET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-31 00:13:43,846 [INFO] 192.168.0.100 - - [31/Dec/2024 00:13:43] "GET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-31 00:13:43,950 [INFO] 192.168.0.100 - - [31/Dec/2024 00:13:43] "GET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-31 00:15:21,160 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:15:21,220 [INFO]  * Restarting with stat
+2024-12-31 00:15:22,145 [INFO] Starting Flask server.
+2024-12-31 00:15:22,163 [WARNING]  * Debugger is active!
+2024-12-31 00:15:22,166 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:15:23,786 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:23] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:15:23,879 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:23] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:15:23,879 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:23] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:15:23,902 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:23] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:15:24,833 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:24] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:15:24,843 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:24] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:15:24,849 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:24] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:15:24,871 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:24] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,007 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:15:25,022 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,022 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,043 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,198 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:15:25,208 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,210 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,234 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,358 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:15:25,371 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,372 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:15:25,391 [INFO] 192.168.0.100 - - [31/Dec/2024 00:15:25] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:15:56,265 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:15:56,323 [INFO]  * Restarting with stat
+2024-12-31 00:15:56,716 [INFO] Starting Flask server.
+2024-12-31 00:15:56,733 [WARNING]  * Debugger is active!
+2024-12-31 00:15:56,737 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:16:01,500 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:01] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:16:01,563 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:01] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:16:01,574 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:01] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:16:01,599 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:01] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:16:02,736 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:02] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:16:02,752 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:02] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:16:02,754 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:02] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:16:02,780 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:02] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:16:41,959 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:41] "[35m[1mGET /stitch HTTP/1.1[0m" 500 -
+2024-12-31 00:16:41,973 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:41] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 00:16:41,974 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:41] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 00:16:42,003 [INFO] 192.168.0.100 - - [31/Dec/2024 00:16:42] "[36mGET /stitch?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-31 00:17:55,017 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:17:55,083 [INFO]  * Restarting with stat
+2024-12-31 00:17:55,491 [INFO] Starting Flask server.
+2024-12-31 00:17:55,508 [WARNING]  * Debugger is active!
+2024-12-31 00:17:55,512 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:18:07,279 [INFO] 192.168.0.100 - - [31/Dec/2024 00:18:07] "GET /stitch HTTP/1.1" 200 -
+2024-12-31 00:18:41,623 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:18:41,700 [INFO]  * Restarting with stat
+2024-12-31 00:18:42,110 [INFO] Starting Flask server.
+2024-12-31 00:18:42,126 [WARNING]  * Debugger is active!
+2024-12-31 00:18:42,130 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:43:58,726 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:43:58,792 [INFO]  * Restarting with stat
+2024-12-31 00:43:59,238 [INFO] Starting Flask server.
+2024-12-31 00:43:59,256 [WARNING]  * Debugger is active!
+2024-12-31 00:43:59,260 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:44:09,295 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:44:09,351 [INFO]  * Restarting with stat
+2024-12-31 00:44:09,773 [INFO] Starting Flask server.
+2024-12-31 00:44:09,800 [WARNING]  * Debugger is active!
+2024-12-31 00:44:09,804 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:56:38,451 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:56:38,508 [INFO]  * Restarting with stat
+2024-12-31 00:56:38,924 [INFO] Starting Flask server.
+2024-12-31 00:56:38,942 [WARNING]  * Debugger is active!
+2024-12-31 00:56:38,945 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:56:46,972 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 00:56:47,041 [INFO]  * Restarting with stat
+2024-12-31 00:56:47,441 [INFO] Starting Flask server.
+2024-12-31 00:56:47,470 [WARNING]  * Debugger is active!
+2024-12-31 00:56:47,476 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 00:57:42,251 [INFO] 127.0.0.1 - - [31/Dec/2024 00:57:42] "POST / HTTP/1.1" 200 -
+2024-12-31 02:05:00,385 [INFO] 127.0.0.1 - - [31/Dec/2024 02:05:00] "POST / HTTP/1.1" 200 -
+2024-12-31 02:05:56,627 [INFO] 127.0.0.1 - - [31/Dec/2024 02:05:56] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2024-12-31 02:06:14,724 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:06:14,726 [WARNING] No 'images' part in the request.
+2024-12-31 02:06:14,726 [INFO] 127.0.0.1 - - [31/Dec/2024 02:06:14] "[31m[1mPOST /stitch HTTP/1.1[0m" 400 -
+2024-12-31 02:21:21,803 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:21:21,804 [WARNING] No 'images' part in the request.
+2024-12-31 02:21:21,805 [INFO] 127.0.0.1 - - [31/Dec/2024 02:21:21] "[31m[1mPOST /stitch HTTP/1.1[0m" 400 -
+2024-12-31 02:21:34,156 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:21:34,157 [WARNING] No 'images' part in the request.
+2024-12-31 02:21:34,158 [INFO] 127.0.0.1 - - [31/Dec/2024 02:21:34] "[31m[1mPOST /stitch HTTP/1.1[0m" 400 -
+2024-12-31 02:23:40,089 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:23:40,099 [WARNING] No 'images' part in the request.
+2024-12-31 02:23:40,099 [INFO] 127.0.0.1 - - [31/Dec/2024 02:23:40] "[31m[1mPOST /stitch HTTP/1.1[0m" 400 -
+2024-12-31 02:23:48,926 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:23:48,930 [INFO] Number of images received: 6
+2024-12-31 02:23:48,931 [INFO] 127.0.0.1 - - [31/Dec/2024 02:23:48] "POST /stitch HTTP/1.1" 200 -
+2024-12-31 02:24:58,532 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 02:24:58,594 [INFO]  * Restarting with stat
+2024-12-31 02:24:59,046 [INFO] Starting Flask server.
+2024-12-31 02:24:59,067 [WARNING]  * Debugger is active!
+2024-12-31 02:24:59,070 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 02:26:00,093 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:26:00,143 [INFO] Number of images received: 40
+2024-12-31 02:26:00,144 [ERROR] Filename 'card-front (21).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,144 [ERROR] Filename 'card-front (20).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,144 [ERROR] Filename 'card-back (3).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,145 [ERROR] Filename 'card-front (19).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,145 [ERROR] Filename 'card-front (18).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,145 [ERROR] Filename 'card-front (17).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,146 [ERROR] Filename 'card-front (15).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,146 [ERROR] Filename 'card-front (14).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,146 [ERROR] Filename 'card-front (13).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,147 [ERROR] Filename 'card-front (12).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,147 [ERROR] Filename 'card-back (2).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,148 [ERROR] Filename 'card-back (1).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,148 [ERROR] Filename 'card-front (11).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,149 [ERROR] Filename 'card-front (10).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,149 [ERROR] Filename 'card-back.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,149 [ERROR] Filename 'card-front (9).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,150 [ERROR] Filename 'card-front (8).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,150 [ERROR] Filename 'card-front (7).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,150 [ERROR] Filename 'card-front (6).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,150 [ERROR] Filename 'card-front (5).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,151 [ERROR] Filename 'card-front (4).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,151 [ERROR] Filename 'card-front (3).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,151 [ERROR] Filename 'card-front (2).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,151 [ERROR] Filename 'card-front (1).png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,152 [ERROR] Filename 'PSN-membership-Cards-copy-12-23-2024_05_16_AM.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,152 [ERROR] Filename 'card-front.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,152 [ERROR] Filename 'logo-removebg-preview.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,152 [ERROR] Filename 'doctor.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,153 [ERROR] Filename 'images (2).jpeg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,153 [ERROR] Filename 'images (1).jpeg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,153 [ERROR] Filename 'Neurology02.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,153 [ERROR] Filename 'app-image1.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,153 [ERROR] Filename 'app-image2.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,154 [ERROR] Filename 'app-image3.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,154 [ERROR] Filename 'app-image4.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,154 [ERROR] Filename 'IMG-20241213-WA0002.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,154 [ERROR] Filename 'IMG-20241213-WA0003.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,155 [ERROR] Filename 'IMG-20241213-WA0004.jpg' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,155 [ERROR] Filename 'adaptive-icon.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,155 [ERROR] Filename '—Pngtree—primary - 1000x1000_4814748.png' does not match the required format 'e<elevation>_a<azimuth>.<ext>'. Skipping.
+2024-12-31 02:26:00,156 [INFO] Number of elevation groups: 0
+2024-12-31 02:26:00,156 [ERROR] No valid elevation groups found. Ensure filenames follow the 'e<elevation>_a<azimuth>.<ext>' format.
+2024-12-31 02:26:00,158 [INFO] 127.0.0.1 - - [31/Dec/2024 02:26:00] "[31m[1mPOST /stitch HTTP/1.1[0m" 400 -
+2024-12-31 02:26:15,241 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 02:26:15,300 [INFO]  * Restarting with stat
+2024-12-31 02:26:15,717 [INFO] Starting Flask server.
+2024-12-31 02:26:15,735 [WARNING]  * Debugger is active!
+2024-12-31 02:26:15,738 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 02:26:20,363 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:26:20,393 [INFO] Number of images received: 40
+2024-12-31 02:26:20,397 [INFO] 127.0.0.1 - - [31/Dec/2024 02:26:20] "POST /stitch HTTP/1.1" 200 -
+2024-12-31 02:28:07,520 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:28:07,549 [INFO] Number of images received: 40
+2024-12-31 02:28:07,551 [INFO] 192.168.0.100 - - [31/Dec/2024 02:28:07] "POST /stitch HTTP/1.1" 200 -
+2024-12-31 02:29:54,218 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 02:29:54,277 [INFO]  * Restarting with stat
+2024-12-31 02:29:54,701 [INFO] Starting Flask server.
+2024-12-31 02:29:54,719 [WARNING]  * Debugger is active!
+2024-12-31 02:29:54,723 [INFO]  * Debugger PIN: 140-384-597
+2024-12-31 02:29:57,143 [INFO] Received a request to /stitch endpoint.
+2024-12-31 02:29:57,175 [INFO] Number of images received: 40 [<FileStorage: 'card-front (21).png' ('image/png')>, <FileStorage: 'card-front (20).png' ('image/png')>, <FileStorage: 'card-back (3).png' ('image/png')>, <FileStorage: 'card-front (19).png' ('image/png')>, <FileStorage: 'card-front (18).png' ('image/png')>, <FileStorage: 'card-front (17).png' ('image/png')>, <FileStorage: 'card-front (15).png' ('image/png')>, <FileStorage: 'card-front (14).png' ('image/png')>, <FileStorage: 'card-front (13).png' ('image/png')>, <FileStorage: 'card-front (12).png' ('image/png')>, <FileStorage: 'card-back (2).png' ('image/png')>, <FileStorage: 'card-back (1).png' ('image/png')>, <FileStorage: 'card-front (11).png' ('image/png')>, <FileStorage: 'card-front (10).png' ('image/png')>, <FileStorage: 'card-back.png' ('image/png')>, <FileStorage: 'card-front (9).png' ('image/png')>, <FileStorage: 'card-front (8).png' ('image/png')>, <FileStorage: 'card-front (7).png' ('image/png')>, <FileStorage: 'card-front (6).png' ('image/png')>, <FileStorage: 'card-front (5).png' ('image/png')>, <FileStorage: 'card-front (4).png' ('image/png')>, <FileStorage: 'card-front (3).png' ('image/png')>, <FileStorage: 'card-front (2).png' ('image/png')>, <FileStorage: 'card-front (1).png' ('image/png')>, <FileStorage: 'PSN-membership-Cards-copy-12-23-2024_05_16_AM.png' ('image/png')>, <FileStorage: 'card-front.png' ('image/png')>, <FileStorage: 'logo-removebg-preview.png' ('image/png')>, <FileStorage: 'doctor.png' ('image/png')>, <FileStorage: 'images (2).jpeg' ('image/jpeg')>, <FileStorage: 'images (1).jpeg' ('image/jpeg')>, <FileStorage: 'Neurology02.png' ('image/png')>, <FileStorage: 'app-image1.jpg' ('image/jpeg')>, <FileStorage: 'app-image2.jpg' ('image/jpeg')>, <FileStorage: 'app-image3.jpg' ('image/jpeg')>, <FileStorage: 'app-image4.jpg' ('image/jpeg')>, <FileStorage: 'IMG-20241213-WA0002.jpg' ('image/jpeg')>, <FileStorage: 'IMG-20241213-WA0003.jpg' ('image/jpeg')>, <FileStorage: 'IMG-20241213-WA0004.jpg' ('image/jpeg')>, <FileStorage: 'adaptive-icon.png' ('image/png')>, <FileStorage: '—Pngtree—primary - 1000x1000_4814748.png' ('image/png')>]
+2024-12-31 02:29:57,178 [INFO] 192.168.0.100 - - [31/Dec/2024 02:29:57] "POST /stitch HTTP/1.1" 200 -
+2024-12-31 02:30:22,795 [INFO]  * Detected change in 'C:\\Users\\SHEHROZ\\Desktop\\360\\pyBack\\app.py', reloading
+2024-12-31 02:30:22,855 [INFO]  * Restarting with stat
+2024-12-31 02:30:23,257 [INFO] Starting Flask server.
+2024-12-31 02:30:23,273 [WARNING]  * Debugger is active!
+2024-12-31 02:30:23,277 [INFO]  * Debugger PIN: 140-384-597
